@@ -1,1 +1,0 @@
-Bismuth Lepia is the late husband of [[Nickel]] and son of [[Cobalt Lepia]] he is currently apart of Cobalt's body, keeping his body stable.

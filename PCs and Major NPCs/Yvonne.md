@@ -1,5 +1,0 @@
-#PCs 
-
-Relationships:
-
-# [[Cobalt Lepia]] 

@@ -1,2 +1,0 @@
-tags: #NPCs
-Imogen Ren is the head of the Templar and member of the Lennox Family. She likes to stay holed up in Batania, despite it's toasty disposition but does have a place to live in Glom, on the corner of Twin and Oaks. She is allied with [[Nerni Raddell]] and the [[Lennox Family]] 
