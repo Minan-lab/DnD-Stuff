@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"845f0a6b7773f540","x":-200,"y":200,"width":400,"height":400,"type":"file","file":"PCs and Major NPCs/Cobalt Lepia.md"},
+		{"id":"18f2531ef9bcc548","x":440,"y":-280,"width":400,"height":400,"type":"file","file":"PCs and Major NPCs/Bismuth Lepia.md"},
+		{"id":"cbe83d500f9434f5","x":-880,"y":-280,"width":400,"height":400,"type":"file","file":"PCs and Major NPCs/Nickel.md"}
+	],
+	"edges":[
+		{"id":"b1f50546f3128b30","fromNode":"cbe83d500f9434f5","fromSide":"right","toNode":"18f2531ef9bcc548","toSide":"left","label":"Married and had child"},
+		{"id":"1367dfa9d7bd4691","fromNode":"18f2531ef9bcc548","fromSide":"bottom","toNode":"845f0a6b7773f540","toSide":"top","label":"Died to keep alive"},
+		{"id":"29afe86ee631c435","fromNode":"cbe83d500f9434f5","fromSide":"bottom","toNode":"845f0a6b7773f540","toSide":"top","label":"Birthed"}
+	]
+}

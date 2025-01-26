@@ -1,0 +1,1 @@
+A country in [[Gondre]] that used to be the continents' bastion of world history. With it having the most ruins

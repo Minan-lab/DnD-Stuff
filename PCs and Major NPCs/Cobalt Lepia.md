@@ -1,0 +1,2 @@
+#PCs
+Cobalt Lepia, son of [[Nickel]] and [[Bismuth Lepia]]. He is a [[Drallazo]] a type of dragonkin where two different types of dragon lineage merge together to create a merge of the two to usually great effect.

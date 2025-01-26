@@ -1,0 +1,1 @@
+These lorekeepers, monks and wizards shrouded in mystery work to keep the history of the world in record, there is always one watching those in the world make moves in the world. The current head of the faction is Sir [[Unbelto Yggnalium]]. This faction follows Pharadates, but does not know of her current plans.

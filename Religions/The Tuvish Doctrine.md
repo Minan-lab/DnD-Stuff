@@ -1,0 +1,3 @@
+tags:#Organizations
+
+The Church of Tuvsh is a congregation dedicated to one of many otherworldly presences of the world, Tuvsh, The Silent Purveyor. Among the religions ranks, sits the Templar, which holds the titular Templar Assassins and Paladins of Zealotry, and the foremost authority of the church: [[The Emissaries of Tuvsh]]. These 4 high ranking members, handle all from ceremonies, to expansion, to even things most don't have their eyes on. This religion has quickly become a household name, keeping its main temple in Langrasia, Mongulf. The Religious Capital of Mongulf, holding a number of religious institutions. Though it seems the Tuvish Doctrine has a iron grip on the government of [[Mongulf]].

@@ -1,0 +1,1 @@
+Otherwise knows as a dragon of two lineages, Drallazo are quite powerful beings, even if they do go against [[The 10 Vydre Clauses]]. 

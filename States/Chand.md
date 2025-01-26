@@ -1,0 +1,1 @@
+Chand, the state most known for its constant kowtowing to [[Mongulf]], it has been sent away on many a raid and pillage. Its most recent pillaging effort was the Batanian Raid of 425PMR(Post Magic Renaissance). Before the Tuvish Doctrine began to go into full force, the town was known to hold temples to Aglaurus.

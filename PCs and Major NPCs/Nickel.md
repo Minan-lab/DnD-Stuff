@@ -1,0 +1,1 @@
+Nickel Lepia, or Durgclaugsurruryte is a former member of the [[Conclave de los Elementos]] and the mother of [[Cobalt Lepia]] and husband of [[Bismuth Lepia]]. 

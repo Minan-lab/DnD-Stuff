@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "874426bbf6aaf3a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "09da49e3f6578958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09d732de1380b27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b823738dd4a2a34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbelto Yggnalium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbelto Yggnalium"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "618c6d3236e7e084",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e441eaef5757597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14e336536bf710f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77511a89948d3925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df79433ab5aa7bf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "001d03db304b8d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5a104c8821b10d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "537fd97e73717901",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unbelto Yggnalium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unbelto Yggnalium"
+            }
+          },
+          {
+            "id": "b6c2e482946ed109",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gondre Ideas/PCs and Major NPCs/Silvana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Silvana"
+            }
+          },
+          {
+            "id": "574cf7684aa6daa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3a0cab45c020e11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gondre Ideas/PCs and Major NPCs/Silvana.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Silvana"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "b823738dd4a2a34c",
+  "lastOpenFiles": [
+    "Religions/The Followers of the Makovitz Gods.md",
+    "The Sons of the Ambiguous Will.md",
+    "Unbelto Yggnalium.md",
+    "Families/The Scions of the Den Queen.md",
+    "Roi Leone Tri-Tonne.md",
+    "The Apostles' Creed.md",
+    "Tartarus.md",
+    "Anbera Broodfist XXIII.md",
+    "Soul of the World; The Heart of Great Magics.md",
+    "Families/The Yatesgard Family.md",
+    "Families/The Aldwald Family.md",
+    "Families/The Gardacliff Family.md",
+    "Families/The Garettamen Family.md",
+    "Families/The Lennox Family.md",
+    "History/The 12 Noted Families of Glom.md",
+    "Families/The Fairtop Family.md",
+    "History/Lennox Family.md",
+    "The Displaced/Renwo Tullybrook.md",
+    "PCs and Major NPCs/Cobalt Lepia.md",
+    "Isekai D&D/Where is the party.md",
+    "Organizations",
+    "PCs and Major NPCs/Yvonne.md",
+    "The Displaced/Jun Yun'Phun.md",
+    "Dorome.md",
+    "Families/Lepia Family.canvas",
+    "PCs and Major NPCs/Bismuth Lepia.md",
+    "PCs and Major NPCs/Dimio.md",
+    "PCs and Major NPCs/Nickel.md",
+    "Families",
+    "Arcane Theorem",
+    "Myths",
+    "History",
+    "Religions",
+    "Countries",
+    "Religions/The Gods",
+    "Ghomland 2024-12-08-11-04.svg",
+    "Vagos 2024-12-08-11-08.svg",
+    "Vagos 2024-12-08-11-15.svg",
+    "Unconfirmed 392241.crdownload",
+    "Unconfirmed 245579.crdownload",
+    "ca131f8b866467c5d216dbb79bf0cee5.jpg",
+    "Plagueskull Maze_60x29(DM Copy).png",
+    "Plagueskull Maze_60x29.png",
+    "Stuff/Plagueskull Maze_60x29(DM Copy).png",
+    "Stuff/Plagueskull Maze_60x29.png",
+    "Plagueskull Maze_60x29(DM Copy) 1.png",
+    "Plagueskull Maze_60x29 - Copy.png"
+  ]
+}
